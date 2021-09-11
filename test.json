@@ -2,46 +2,458 @@
     "android_play_store_link": "",
     "ios_app_store_link": "",
     "sticker_packs": [
-      {
-        "identifier": "1",
-        "name": "Cuppy",
-        "publisher": "Jane Doe",
-        "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
-        "publisher_email":"",
-        "publisher_website": "",
-        "privacy_policy_website": "",
-        "license_agreement_website": "",
-        "stickers": [
-          {
-            "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/2.webp",
-            "emojis": ["??","??"]
-          },
-          {
-            "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
-            "emojis": ["??","??"]
-          }
-        ]
-      },
-      {
-        "identifier": "2",
-        "name": "Cuppy",
-        "publisher": "Jane Doe",
-        "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
-        "publisher_email":"",
-        "publisher_website": "",
-        "privacy_policy_website": "",
-        "license_agreement_website": "",
-        "stickers": [  
-          {
-            "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/2.webp",
-            "emojis": ["??","??"]
-          },
-          {
-            "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
-            "emojis": ["??","??"]
-          }
-         
-        ]
-      }
+        {
+            "identifier": "gc",
+            "name": "ganesh chaturdhi",
+            "publisher": "az reddy",
+            "tray_image_file": "trayimage",
+            "publisher_email": "abc@gmail.com",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(1).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(2).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(3).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(4).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(5).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(6).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(7).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(8).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(9).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(10).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(11).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(12).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(13).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(14).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(15).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(16).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(17).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(18).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(19).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(20).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/gc/1%20(21).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+
+        {
+            "identifier": "jr",
+            "name": "jaathi ratnalu",
+            "publisher": "az reddy",
+            "tray_image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/trayimage.png",
+            "publisher_email": "abc@gmail.com",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(1).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(2).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(3).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(4).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(5).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(6).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(7).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(8).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(9).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(10).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(11).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(12).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(13).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(14).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(15).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(16).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(17).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(18).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(19).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(20).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(21).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(22).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(23).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(24).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(25).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(26).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/jr/1%20(27).webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+
+        {
+            "identifier": "pc",
+            "name": "pelli choopulu",
+            "publisher": "az reddy",
+            "tray_image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/trayimage.png",
+            "publisher_email": "abc@gmail.com",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/1.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/2.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/3.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/4.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/5.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/6.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/7.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/8.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/9.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/10.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/azreddy84/stickertest/main/pc/11.webp",
+                    "emojis": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        }
+
+
     ]
-  }
+}
