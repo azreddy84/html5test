@@ -6,7 +6,7 @@
             "identifier": "gc",
             "name": "ganesh chaturdhi",
             "publisher": "az reddy",
-            "tray_image_file": "trayimage",
+            "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
             "publisher_email": "abc@gmail.com",
             "publisher_website": "",
             "privacy_policy_website": "",
